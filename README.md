@@ -6,7 +6,7 @@ This site highlights my work as a developer and serves as a central hub for anyo
 ---
 
 ## 🌐 Live Demo  
-[View Portfolio](https:new/index.html)  
+[View Portfolio](https://prakharsri001.github.io/Portfolio/new/index.html) 
 
 
 
